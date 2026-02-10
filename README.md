@@ -1,4 +1,4 @@
-# 🌩️ AWS Multi-Tier Cloud Infrastructure Projects
+# AWS Multi-Tier Cloud Infrastructure Projects
 
 ## 📌 Project Overview
 
@@ -16,7 +16,7 @@ This project was implemented using **AWS Free Tier resources**.
 - Due to cost safety, this repository contains **architecture screenshots and configuration images instead of running production services**  
 ---
 
-## 🚀 Implemented Architectures
+## Implemented Architectures
 
 - ✔ Static Website Hosting using Amazon S3  
 - ✔ WordPress Deployment using EC2 + RDS + S3  
@@ -26,7 +26,7 @@ This project was implemented using **AWS Free Tier resources**.
 
 ---
 
-## 🧰 Tech Stack & AWS Services
+## Tech Stack & AWS Services
 
 - Amazon EC2  
 - Amazon S3  
@@ -41,7 +41,7 @@ This project was implemented using **AWS Free Tier resources**.
 
 ---
 
-## 🏗️ Key Features
+## Key Features
 
 - Multi-tier cloud architecture design  
 - Serverless automation workflows  
@@ -63,7 +63,7 @@ This project was implemented using **AWS Free Tier resources**.
 
 ---
 
-# 🌐 Overall AWS Architecture
+# Overall AWS Architecture
 
 ```mermaid
 flowchart TD
