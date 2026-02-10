@@ -88,12 +88,12 @@ Amazon EC2 hosts the WordPress application, while Amazon RDS is configured in a 
 
 ---
 
-## ✅ Project 3: Secure Cloud File Storage System with Expiring Download Links using AWS
+## Project 3: Secure Cloud File Storage System with Expiring Download Links using AWS
 
-### Overview
+### 📌 Overview
 This project implements a secure file storage and sharing system using AWS cloud services.
 
-### 🛠️ Technologies Used
+### Technologies Used
 - Amazon EC2  
 - Amazon S3  
 - Amazon RDS  
@@ -102,7 +102,7 @@ This project implements a secure file storage and sharing system using AWS cloud
 - IAM Roles  
 - Python (Flask / Boto3)  
 
-### 📖 Description
+### Description
 The web application is hosted on an EC2 instance, while Amazon S3 is used for storing uploaded files. Amazon RDS stores user credentials and file metadata.
 
 AWS Lambda functions generate time-limited pre-signed URLs that allow users to securely download files. Email notifications were configured using AWS SES or SNS. The system also incorporates IAM roles, security groups, and optional VPC endpoints to enhance security and data protection.
@@ -144,7 +144,7 @@ AWS Lambda functions generate time-limited pre-signed URLs that allow users to s
 
 ---
 
-## 🎯 Learning Objectives
+## Learning Objectives
 
 - Cloud Infrastructure Design  
 - DevOps Automation  
